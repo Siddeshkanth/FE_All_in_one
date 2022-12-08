@@ -1,6 +1,10 @@
 # FE_All_in_one
 A Generalized Repo for experimenting with Financial Engineering
 
+"Long way to go, and big ideas yet to discover. We will stumble along the way, and learn a lot from contact with reality of market data.
+
+It will somtimes be messy, and we will be forced to scrub. We will sometimes make really bad dcisions and end up with tons load of meaningless data, we will sometimes have moments of transcentdent progress and value" In all, we will create a tool likely to help us understand financial markets and data better.
+
 
 Here are the following questions we like to answer regarding this repo
 
